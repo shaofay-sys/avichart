@@ -1,0 +1,5 @@
+{
+  "name": "GeminiCAD - AI Vector Drawing Tool",
+  "description": "A vector drawing tool inspired by AutoCAD with DXF export capabilities and Gemini-powered command assistance.",
+  "requestFramePermissions": []
+}
